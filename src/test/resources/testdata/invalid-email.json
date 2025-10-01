@@ -1,0 +1,7 @@
+{
+  "id": 2,
+  "name": "Bad Email User",
+  "email": "invalidemail.com",
+  "address": "123 Invalid St",
+  "phone": "123-456-7890"
+}
