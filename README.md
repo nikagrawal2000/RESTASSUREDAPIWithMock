@@ -50,6 +50,9 @@ This project demonstrates REST API automation testing using:
 ## ▶️ How to Run the Tests
 
 ### 🧪 Run Using Command Line:
+```First Time setup
+git clone https://github.com/nikagrawal2000/RESTASSUREDAPIWithMock.git
+cd RESTASSUREDAPIWithMock
 
 ```bash
 mvn clean test
